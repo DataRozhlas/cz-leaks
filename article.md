@@ -23,13 +23,13 @@ Nicméně, jak vyplývá z bezpečnostního monitorovacího nástroje [haveibeen
 
 <right>
 	<p>
-	<b>Únik e-mailů</b>
+	<b>Dropbox i hacklí hackeři</b>
 	</p><p>
-	Mohlo to být tak, že vlastník e-mailu svou pracovní adresu použil k registraci například na sociální síti nebo e-shopu, odkud pak e-mail a heslo uteklo. Pokud totéž heslo nepoužil i pro jiné přihlášení, nejde o nic kritického. V opačném případě vzniká bezpečnostní riziko.<br><br>
+	Hesla unikala z regulérních služeb jako <a href="https://haveibeenpwned.com/PwnedWebsites#Dropbox">Dropbox</a> nebo <a href="https://haveibeenpwned.com/PwnedWebsites#Adobe">Adobe</a>, část přihlašovacích údajů se ale na veřejnost dostala poté, co jednoho hackera <a href="https://haveibeenpwned.com/PwnedWebsites#OnlinerSpambot">naboural jiný a zveřejnil jeho databázi</a>.<br><br>
 
-	Nejčastěji jsou mezi uniklými adresami zastoupeni ministerstvo financí, ministerstvo spravedlnosti, ministerstvo práce a sociálních věcí a ministerstvo zahraničí.<br><br>
+	K únikům tedy pravděpodobně nedocházelo ze státních systémů. Uživatelé ale své pracovní adresy používali k registraci na nejrůznějších stránkách. Pokud by tytéž údaje nepoužívali na více webech, nešlo by o nic kritického. V opačném případě ale vzniká bezpečnostní riziko.<br><br>
 
-	Redakce se celou věcí začala zabývat po aféře v Německu, kde se na internetu se objevily osobní údaje a dokumenty stovek německých politiků a známých osobností včetně adres, čísel kreditních karet či soukromé korespondence.
+	Redakce se celou věcí začala zabývat po <a href="https://www.irozhlas.cz/zpravy-svet/nemecko-parlament-hackersky-utok_1901041000_jak">aféře v Německu</a>, kde se na internetu se objevily osobní údaje a dokumenty stovek německých politiků a známých osobností včetně adres, čísel kreditních karet či soukromé korespondence.
 	</p>
 </right>
 
@@ -43,13 +43,28 @@ Situace ale může být o to horší, že někteří lidé používají jedno he
 
 ## Únik z Dropboxu či Bombuj.eu
 
-V databázi, do které redakce nahlédla, jsou ještě další tři zákonodárci. Šéf poslaneckého klubu ČSSD Jan Chvojka, exministr zahraničí Lubomír Zaorálek (ČSSD) a poslanec ODS Jan Bauer. V jejich případě ale v uniklé databázi heslo nebylo uvedené. Všichni na dotaz uvedli, že sněmovní e-mail nevyužívají k soukromým účelům. 
+V databázi, do které redakce nahlédla, jsou ještě další tři zákonodárci. Šéf poslaneckého klubu ČSSD Jan Chvojka, exministr zahraničí Lubomír Zaorálek (ČSSD) a poslanec ODS Jan Bauer. V jejich případě ale v uniklé databázi heslo nebylo uvedené. Všichni na dotaz uvedli, že sněmovní e-mail nevyužívají k soukromým účelům.
+
+<left>
+	<p><i>Následující přehled ukazuje deset státních institucí, u kterých byl únik služebních e-mailů nejčetnější:</i></p><p>
+		Ministerstvo financí: 176<br>
+		Ministerstvo spravedlnosti: 172<br>
+		Ministerstvo práce: 123<br>
+		Ministerstvo zahraničí: 68<br>
+		Český úřad zeměměřický a katastrální: 63<br>
+		Ministerstvo vnitra: 60<br>
+		Český statistický úřad: 43<br>
+		Ministerstvo zemědělství: 38<br>
+		Ministerstvo školství: 36<br>
+		Český hydrometeorologický ústav: 32<br>
+	</p>
+</left>
 
 „Spoléhám na to, že máme ve sněmovně bezpečnostní útvar. Od něj nemám žádnou informaci, že bych já nebo moji kolegové měli mít nějaké problémy,“ reagoval třeba poslanec Bauer.
 
-V jeho případě, stejně jako u Chvojky, měli hackeři ukrást přihlašovací údaje včetně hesel v roce 2012 ze služby Dropbox. „Sněmovní e-mail používám k pracovním účelům. Ostatní záležitosti řeším prostřednictvím svých soukromých účtů. 
+V jeho případě, stejně jako u Chvojky, měli hackeři ukrást přihlašovací údaje včetně hesel v roce 2012 ze služby Dropbox. „Sněmovní e-mail používám k pracovním účelům. Ostatní záležitosti řeším prostřednictvím svých soukromých účtů. Nikdo si dnes nemůže být jistý, že jsou jeho aktivity na internetu neprůstřelně chráněny,“ popsal Chvojka s tím, že se na internetu chová obezřetně. 
 
-Nikdo si dnes nemůže být jistý, že jsou jeho aktivity na internetu neprůstřelně chráněny,“ popsal Chvojka s tím, že se na internetu chová obezřetně. Chvojky se přitom v roce 2016 dotkla také aféra kolem soukromé korespondence tehdejšího premiéra Bohuslava Sobotky (ČSSD), extremistický web White Media tehdy zveřejnil i několik jeho e-mailů.
+Chvojky se přitom v roce 2016 dotkla také aféra kolem soukromé korespondence tehdejšího premiéra Bohuslava Sobotky (ČSSD), extremistický web White Media tehdy zveřejnil i několik jeho e-mailů.
 
 <img style="width: 100%" src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_clanek_telo_4_3/public/uploader/zaoralek_profi_190114-195327_kno.jpg?itok=He2EvPlZ">
 
@@ -75,13 +90,13 @@ Mezi uniklými údaji figurují i e-mailové adresy některých vysoce postaven�
 	</p>
 </left>
 
-Přihlašovací údaje unikly i u politického náměstka ministryně financí Jiřího Volfa. Do resortu přišel v roce 2016, tedy ještě v době, kdy v čele resortu stál nynější premiér Andrej Babiš (ANO). „Pokud dostanu pozvánku na konferenci, která mě zajímá, což je tak třikrát do roka, tak to by bylo možné. Nákup (zboží – pozn. red.) ale ne, na to mám případně svůj soukromý e-mail,“ uvedl. 
+Přihlašovací údaje unikly i u politického náměstka ministryně financí Jiřího Volfa. Do resortu přišel v roce 2016, tedy ještě v době, kdy v čele resortu stál nynější premiér Andrej Babiš (ANO). „Pokud dostanu pozvánku na konferenci, která mě zajímá, což je tak třikrát do roka, tak to by bylo možné. Nákup _(zboží – pozn. red.)_ ale ne, na to mám případně svůj soukromý e-mail,“ uvedl. 
 
 Konkrétní případ, odkud mohlo k úniku přihlašovacích údajů dojít, si nevybavil. Stejně tak nepotvrdil, že by uniklé heslo odpovídalo skutečných přihlašovacím údajům, které používá třeba pro elektronické bankovnictví či jiné online služby. „Hesla, která používám pro takovéto účely, si kupodivu pamatuji,“ řekl.
 
 Volf, který na ministerstvu financí působil už v minulosti, zároveň upozornil, že resort kybernetickou bezpečnost nepodceňuje. „Dokonce jsem před několika měsíci musel absolvovat školení, které bylo uzavřeno testy. Takže jsem se ve svých 77 letech musel na to učit, bylo to docela náročné,“ popsal. Volf zároveň tvrdí, že na ministerstvu s žádnými citlivými informacemi nepracuje.
 
-Rozdílně k celé věci přistupuje místopředseda Českého úřadu zeměměřického a katastrálního Karel Štencl. Podle něj se možnost kyber útoků přeceňuje. „Jsme správci významného informačního systému, takže jsme všichni dělali kyber test, který připravil NÚKIB. Já jsem to ale zvlášť neprožíval, možná až mě to vytrestá, budu mluvit jinak. V tuto chvíli mi to ale připadá jako přehnaná panika,“ uvedl.
+Rozdílně k celé věci přistupuje místopředseda Českého úřadu zeměměřického a katastrálního Karel Štencl. Podle něj se možnost kyber útoků přeceňuje. „Jsme správci významného informačního systému, takže jsme všichni dělali kyber test, který připravil NÚKIB _(Národní úřad pro kybernetickou a informační bezpečnost, pozn. red.)_. Já jsem to ale zvlášť neprožíval, možná až mě to vytrestá, budu mluvit jinak. V tuto chvíli mi to ale připadá jako přehnaná panika,“ uvedl.
 
 Štenclův e-mail se objevuje v databázi hned třikrát. Uniklé údaje obsahují i přihlašovací heslo, to ale Štencl nepotvrdil. Stejně tak nevysvětlil, odkud přesně mohly údaje utéct. 
 
@@ -95,21 +110,6 @@ _Utekly také přihlašovací údaje u předsedy Nejvyššího soudu Pavla Šám
 
 „Já se k tomu vyjadřovat nebudu,“ reagoval Šámal po telefonu na žádost o oficiální vyjádření s tím, že si příchozí číslo redaktorky blokuje. Heslo, které se u jeho e-mailu na internetu objevilo, je však snadno uhodnutelné.
 
-<right>
-	<p><i>Následující přehled ukazuje deset státních institucí, u kterých byl únik služebních e-mailů nejčetnější:</i></p><p>
-		Ministerstvo financí: 176<br>
-		Ministerstvo spravedlnosti: 172<br>
-		Ministerstvo práce: 123<br>
-		Ministerstvo zahraničí: 68<br>
-		Český úřad zeměměřický a katastrální: 63<br>
-		Ministerstvo vnitra: 60<br>
-		Český statistický úřad: 43<br>
-		Ministerstvo zemědělství: 38<br>
-		Ministerstvo školství: 36<br>
-		Český hydrometeorologický ústav: 32<br>
-	</p>
-</right>
-
 Mluvčí soudu Petr Tomíček posléze doplnil, že o prověření celé věci požádali NÚKIB. „Nechceme věc podcenit, kontaktovali jsme proto obratem jak manažera kybernetické bezpečnosti ministerstva spravedlnosti, tak úřad pro kybernetickou bezpečnost.“
 
 Úniky se ovšem nevyhýbají ani expertům na ochranu osobních údajů. To je případ Igora Němce. 
@@ -122,11 +122,11 @@ Bezpečnostní opatření podle něj byly tehdy „standardní“. „Heslo se m
 
 Není přitom snadné se dopátrat, kdo z českých úřadů má případné úniky přihlašovacích údajů hlídat. Agendu měl dříve na starosti Národní bezpečností úřad, ten ale nyní dává od věci ruce pryč. „Kybernetická bezpečnost je od 1. srpna 2017 plně agendou Národního úřad pro kybernetickou a informační bezpečnost,“ odmítl jakoukoli odpovědnost Jaromír Kadlec z kanceláře ředitele.
 
-<left>
+<right>
 	<p>
 	Databázi s uniklými e-maily, do které redaktoři serveru iROZHLAS.cz a Radiožurnálu nahlédli, využívají vedle hackerů také bezpečnostní experti pro monitoring a vyhodnocování hrozeb.<br><br>Seznam se prodává na nejrůznějších internetových fórech za v přepočtu asi 60 korun.<br><br>Samotný nákup přihlašovacích údajů či jejich užití za účelem průniku do cizích účtů je trestné.<br><br><i>Kdo v úmyslu spáchat trestný čin [...] neoprávněného přístupu k počítačovému systému a nosiči informací podle § 230 [...] nabízí, zprostředkuje, prodá nebo jinak zpřístupní, sobě nebo jinému opatří nebo přechovává [...] počítačové heslo, přístupový kód [...] bude potrestán odnětím svobody až na dvě léta, propadnutím věci nebo zákazem činnosti.</i></p>
 	<p><b><a href="https://www.zakonyprolidi.cz/cs/2009-40#p231">§ 231 trestního zákoníku</a></b></p>
-</left>
+</right>
 
 Novinářské dotazy ovšem na první pokus u šéfa kybernetického úřadu Dušana Navrátila neprošly. Místo odpovědi, odkázal na zpravodajce, kteří mají problematiku řešit. Ani u kontrarozvědky ale redakce nepochodila. „Je to záležitost jednotlivých institucí, organizací a firem, které musí provádět pravidelná školení a zajistit spravované sítě proti případným útokům,“ uvedl mluvčí BIS Ladislav Šticha.
 
