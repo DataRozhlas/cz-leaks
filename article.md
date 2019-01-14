@@ -29,8 +29,6 @@ Nicméně, jak vyplývá z bezpečnostního monitorovacího nástroje [haveibeen
 
 	Nejčastěji jsou mezi uniklými adresami zastoupeni ministerstvo financí, ministerstvo spravedlnosti, ministerstvo práce a sociálních věcí a ministerstvo zahraničí.<br><br>
 
-	Databázi s uniklými e-maily, do které redaktoři serveru iROZHLAS.cz a Radiožurnálu nahlédli, využívají vedle hackerů také bezpečnostní experti pro monitoring a vyhodnocování hrozeb. Seznam se prodává na nejrůznějších internetových fórech za v přepočtu asi 60 korun.<br><br>
-
 	Redakce se celou věcí začala zabývat po aféře v Německu, kde se na internetu se objevily osobní údaje a dokumenty stovek německých politiků a známých osobností včetně adres, čísel kreditních karet či soukromé korespondence.
 	</p>
 </right>
@@ -91,15 +89,32 @@ Rozdílně k celé věci přistupuje místopředseda Českého úřadu zeměmě�
 
 Podobně utekly také údaje u předsedy Nejvyššího soudu Pavla Šámala. Jeho služební e-mail je v monitorovacím nástroji [haveibeenpwned.com](https://haveibeenpwned.com/) evidovaný hned v rámci trojice bezpečnostních incidentů. Jde například o únik přihlašovacích údajů ze vzdělávacího webu Edmondo či – podobně jako u Farského – ze služby LinkedIn.
 
-„Já se k tomu vyjadřovat nebudu,“ reagoval Šámal po telefonu na žádost o oficiální vyjádření s tím, že si příchozí číslo redaktorky blokuje. Heslo, které se u jeho e-mailu na internetu objevilo, je však snadno uhodnutelné.
-
 <img style="width: 100%" src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_clanek_telo_4_3/public/uploader/samal_profi_190114-195327_kno.jpg?itok=eteYjpjo">
 
 _Utekly také přihlašovací údaje u předsedy Nejvyššího soudu Pavla Šámala, autor: Anna Vavríková/MAFRA, Fotobanka Profimedia_
 
+„Já se k tomu vyjadřovat nebudu,“ reagoval Šámal po telefonu na žádost o oficiální vyjádření s tím, že si příchozí číslo redaktorky blokuje. Heslo, které se u jeho e-mailu na internetu objevilo, je však snadno uhodnutelné.
+
+<right>
+	<p><i>Následující přehled ukazuje deset státních institucí, u kterých byl únik služebních e-mailů nejčetnější:</i></p><p>
+		Ministerstvo financí: 176<br>
+		Ministerstvo spravedlnosti: 172<br>
+		Ministerstvo práce: 123<br>
+		Ministerstvo zahraničí: 68<br>
+		Český úřad zeměměřický a katastrální: 63<br>
+		Ministerstvo vnitra: 60<br>
+		Český statistický úřad: 43<br>
+		Ministerstvo zemědělství: 38<br>
+		Ministerstvo školství: 36<br>
+		Český hydrometeorologický ústav: 32<br>
+	</p>
+</right>
+
 Mluvčí soudu Petr Tomíček posléze doplnil, že o prověření celé věci požádali NÚKIB. „Nechceme věc podcenit, kontaktovali jsme proto obratem jak manažera kybernetické bezpečnosti ministerstva spravedlnosti, tak úřad pro kybernetickou bezpečnost.“
 
-Úniky se ovšem nevyhýbají ani expertům na ochranu osobních údajů. To je případ Igora Němce. „O žádném incidentu nevím a ani jsem nikdy nebyl informován. Přes internet jsem se tak akorát přihlásil na konferenci, ale ne na sociální sítě ani e-shop,“ popsal někdejší dlouholetý šéf Úřadu pro ochranu osobních údajů, který nyní působí jako konzultant v komerčním sektoru.
+Úniky se ovšem nevyhýbají ani expertům na ochranu osobních údajů. To je případ Igora Němce. 
+
+„O žádném incidentu nevím a ani jsem nikdy nebyl informován. Přes internet jsem se tak akorát přihlásil na konferenci, ale ne na sociální sítě ani e-shop,“ popsal někdejší dlouholetý šéf Úřadu pro ochranu osobních údajů, který nyní působí jako konzultant v komerčním sektoru.
 
 Bezpečnostní opatření podle něj byly tehdy „standardní“. „Heslo se muselo například pravidelně měnit s kontrolou, zda se neopakuje žádné předchozí,“ uvedl. Němec současně odmítl, že by některé z uniklých hesel v minulosti používal. 
 
@@ -107,20 +122,11 @@ Bezpečnostní opatření podle něj byly tehdy „standardní“. „Heslo se m
 
 Není přitom snadné se dopátrat, kdo z českých úřadů má případné úniky přihlašovacích údajů hlídat. Agendu měl dříve na starosti Národní bezpečností úřad, ten ale nyní dává od věci ruce pryč. „Kybernetická bezpečnost je od 1. srpna 2017 plně agendou Národního úřad pro kybernetickou a informační bezpečnost,“ odmítl jakoukoli odpovědnost Jaromír Kadlec z kanceláře ředitele.
 
-<right>
-	<p><i>Následující přehled ukazuje deset státních institucí, u kterých byl únik služebních e-mailů nejčetnější:</i></p><p>
-		<b>Ministerstvo financí:</b> 176<br>
-		 <b>Ministerstvo spravedlnosti:</b> 172<br>
-		 <b>Ministerstvo práce:</b> 123<br>
-		 <b>Ministerstvo zahraničí:</b> 68<br>
-		 <b>Český úřad zeměměřický a katastrální:</b> 63<br>
-		 <b>Ministerstvo vnitra:</b> 60<br>
-		 <b>Český statistický úřad:</b> 43<br>
-		 <b>Ministerstvo zemědělství:</b> 38<br>
-		 <b>Ministerstvo školství:</b> 36<br>
-		 <b>Český hydrometeorologický ústav:</b> 32<br>
-	</p>
-</right>
+<left>
+	<p>
+	Databázi s uniklými e-maily, do které redaktoři serveru iROZHLAS.cz a Radiožurnálu nahlédli, využívají vedle hackerů také bezpečnostní experti pro monitoring a vyhodnocování hrozeb.<br><br>Seznam se prodává na nejrůznějších internetových fórech za v přepočtu asi 60 korun.<br><br>Samotný nákup přihlašovacích údajů či jejich užití za účelem průniku do cizích účtů je trestné.<br><br><i>Kdo v úmyslu spáchat trestný čin [...] neoprávněného přístupu k počítačovému systému a nosiči informací podle § 230 [...] nabízí, zprostředkuje, prodá nebo jinak zpřístupní, sobě nebo jinému opatří nebo přechovává [...] počítačové heslo, přístupový kód [...] bude potrestán odnětím svobody až na dvě léta, propadnutím věci nebo zákazem činnosti.</i></p>
+	<p><b><a href="https://www.zakonyprolidi.cz/cs/2009-40#p231">§ 231 trestního zákoníku</a></b></p>
+</left>
 
 Novinářské dotazy ovšem na první pokus u šéfa kybernetického úřadu Dušana Navrátila neprošly. Místo odpovědi, odkázal na zpravodajce, kteří mají problematiku řešit. Ani u kontrarozvědky ale redakce nepochodila. „Je to záležitost jednotlivých institucí, organizací a firem, které musí provádět pravidelná školení a zajistit spravované sítě proti případným útokům,“ uvedl mluvčí BIS Ladislav Šticha.
 
